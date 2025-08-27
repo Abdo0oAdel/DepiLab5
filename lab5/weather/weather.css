@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 10px;
+}
+body {
+    background: #e0f7fa;
+    font-family: Arial, sans-serif;
+}
+#weather-output {
+    background: #fff;
+    border-radius: 0.8rem;
+    box-shadow: 0 0.2rem 0.8rem rgba(0,0,0,0.1);
+    max-width: 80rem;
+    margin: 16rem auto;
+    padding: 3.2rem;
+    text-align: center;
+    font-size: 3rem;
+    color: #333;
+}
+strong {
+    color: #00796b;
+}
